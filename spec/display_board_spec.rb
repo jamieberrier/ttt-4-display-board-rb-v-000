@@ -185,7 +185,7 @@ describe "#display_board in 'lib/display_board.rb" do
       board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"] # This is not correct
 
       # *** Comment the line below by adding a # at the line start ***
-      expect(true).to be(true)
+      #expect(true).to be(true)
     end
   end
 end
